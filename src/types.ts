@@ -7,4 +7,5 @@ export enum Direction {
   S,
   W,
   N,
+  A,
 }
